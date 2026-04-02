@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Bocik24/7",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "ANARCHIA--SMP4.aternos.me",
     "port": 19573,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
